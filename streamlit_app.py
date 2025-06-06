@@ -13,13 +13,13 @@
 # In[ ]:
 
 
-get_ipython().system('pip install llama-index-vector-stores-faiss')
+# get_ipython().system('pip install llama-index-vector-stores-faiss')
 
 
 # In[ ]:
 
 
-get_ipython().system('pip install llama-index-embeddings-huggingface')
+# get_ipython().system('pip install llama-index-embeddings-huggingface')
 
 
 # ## 🔧 Step 1: Install Required Libraries
@@ -27,7 +27,7 @@ get_ipython().system('pip install llama-index-embeddings-huggingface')
 # In[ ]:
 
 
-get_ipython().system('pip install llama-index faiss-cpu sentence-transformers openai PyPDF2')
+# get_ipython().system('pip install llama-index faiss-cpu sentence-transformers openai PyPDF2')
 
 
 # ## 📚 Step 2: Import Libraries
