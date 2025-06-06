@@ -7,7 +7,7 @@
 # In[ ]:
 
 
-pip install llama-index --upgrade
+# pip install llama-index --upgrade
 
 
 # In[ ]:
